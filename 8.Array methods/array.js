@@ -1,16 +1,16 @@
-//find
+//find(to find any element of a function , it needs function)
 const shapes = ["up", "down", "left", "behind","front"]
 
 console.log(shapes.find(function(abc){
     return abc === "left"
 }))
 
-//findindex
+//findindex(returns an index number of an element)
 console.log(shapes.findIndex(function(xyz){
     return xyz === "left"
 }))
 
-//Some
+//Some()
 const nums = [21,30,40,80,3689]
 console.log(nums.some(function(anything){
     return anything > 0;

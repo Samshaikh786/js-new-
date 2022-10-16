@@ -1,4 +1,4 @@
-//string
+//string(it is written under inverted comma and it is considered as text)
 var x = "yahoo baba";
 console.log(x);
 //document.write(typeof x);
@@ -7,24 +7,23 @@ console.log(x);
 var y = 240;
 console.log(y);
 
-//boolean
+//boolean(to give a value of true or false)
 var z = true;
 console.log(z);
 document.write(typeof(z));
 
-//undefined
+//undefined()
 var a = undefined;
 console.log(a);
 
-//null
+//null(keep the variable null or empty)
 var b = null;
 console.log(b);
 
-//object
+//object(it has key:value;)
 var c = {firstname:"john", lastname:"wick"}
 console.log(c);
 
-//array
-
+//array(it is a collection of data)
 var lm = ["HTML","CSS","JS"];
 console.log(lm);

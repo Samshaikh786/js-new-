@@ -1,4 +1,4 @@
-// && (lodical AND)both conditions must follow
+// && (logical AND)both conditions must follow
 var age= 35;
 if(age >= 18 && age <=40){console.log("this is true")};
 
