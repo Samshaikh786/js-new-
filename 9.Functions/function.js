@@ -1,5 +1,15 @@
 //function: a block code that is execute on a certain i.e. you have to call the function the
 
+
+
+
+
+
+
+
+
+
+
 //we can read individual obejct by giving them dot and bracket notation
 //dot notation
 const person={name:"john wick",

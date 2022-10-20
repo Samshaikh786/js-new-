@@ -13,4 +13,3 @@ switch(role){
                 default:
                     console.log("you dont belong here,get the hell out!");
 }
-

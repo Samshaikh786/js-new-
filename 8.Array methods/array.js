@@ -5,7 +5,7 @@ console.log(shapes.find(function(abc){
     return abc === "left"
 }))
 
-//findindex(returns an index number of an element)
+//findindex(returns an index number of an element and it also requires function)
 console.log(shapes.findIndex(function(xyz){
     return xyz === "left"
 }))

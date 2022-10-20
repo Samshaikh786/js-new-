@@ -19,7 +19,7 @@ const best = "567";
 console.log(best.valueOf());
 
 //Number ParseIn and Parsefloat ( these are not number methods but a global javascript methods)
-//Number (can hellps to convert javascript variable into number)
+//Number (can helps to convert javascript variable into number)
 const yes = "10002.33";
 console.log(Number(yes));
 
