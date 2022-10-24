@@ -14,7 +14,7 @@ console.log(total2.toFixed());
 console.log(total2.toPrecision(3));
 
 
-//tonumber (returns a number as a number and there is no need to use it )
+//tonumber (returns a string as a number and there is no need to use it )
 const best = "567";
 console.log(best.valueOf());
 

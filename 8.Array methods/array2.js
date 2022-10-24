@@ -16,7 +16,7 @@ console.log(nums.some(function(anything){
     return anything > 0;
 }))
 
-//Every
+//Every()
 console.log(nums.every(function(anything){
     return anything >= 0;
 }))
