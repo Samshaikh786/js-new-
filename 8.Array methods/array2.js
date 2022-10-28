@@ -50,4 +50,10 @@ console.log(prodcuts.sort(function(a, b){
 }))
 
 
+const somes=[30,40,20,25,35];
+
+console.log(somes.sort(function(item){
+    return item > 30
+}))
+
 
